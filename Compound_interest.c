@@ -4,6 +4,7 @@
   Description:calculating compound intrest
   */
   #include <stdio.h>
+  #include<math.h>
   int main()
   {
   	float principle,rate,time,compounding_years,compound_intrest,final_amount;
