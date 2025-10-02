@@ -1,7 +1,7 @@
 /*
 Name:James Githahu
 Reg no:CT101/G/26463/25
-Description:mobile data
+Description:mobile_data
 */
 #include <stdio.h>
 
